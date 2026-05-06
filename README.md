@@ -1,10 +1,8 @@
 # Hi Mate, I'm Nico ✨
 
----
 <p align="center">
   <img src="Banner_GitHub.png" width="900" alt="Nico's GitHub Banner">
 </p>
----
 
 ## 🚀 About Me
 
@@ -43,15 +41,11 @@ I'm an 18-year-old student currently pursuing a technical degree in Computing. M
 - Developed as my first major **React** integration, focusing on high-performance UI/UX.
 - Features a clean, professional interface designed for a seamless user experience.
 
----
-
 ### 💡 InnovaLink
 A website planned for *Academic Software Project*
 - A digital ecosystem designed to bridge the gap between entrepreneurs and smart capital through dynamic project Showcasing and integrated messaging.
 - **Architected from scratch**: Includes full **UML documentation** (Class, Use Case, and Sequence diagrams) before implementation.
 - **Backend & Data**: Built with Java (Javalin) and MariaDB, utilizing Stored Procedures to handle critical backend logic, security, and data integrity.
-
----
 
 ### 📂 More Projects
 Looking for my academic work? Check out my [**GitHub Organization**](https://github.com/Ixion-Systems) where I host my technical degree repositories.
@@ -61,5 +55,5 @@ Looking for my academic work? Check out my [**GitHub Organization**](https://git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoWASD&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoWASD&show_icons=true" alt="GitHub Stats">
 </p>
