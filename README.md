@@ -55,5 +55,5 @@ Looking for my academic work? Check out my [**GitHub Organization**](https://git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoWASD&theme=highcontrast" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoWASD&theme=highcontrast" width="70%" />
 </p>
