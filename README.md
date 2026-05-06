@@ -1,4 +1,4 @@
 # Hi Mate, I'm Nico ✨
 
-<div style = "width: 900px; height: 300px; background-image: url('Banner_GitHub.png');"> </div>
+<img src="Banner_GitHub.png" width="900" alt="Nico's GitHub Banner">
 
