@@ -55,7 +55,5 @@ Looking for my academic work? Check out my [**GitHub Organization**](https://git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhst-p-github-readme-stats.vercel.app/api?username=NicoWASD&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
-  
-  <img src="https://github-readme-stats-git-masterhst-p-github-readme-stats.vercel.app/api/top-langs/?username=NicoWASD&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoWASD&theme=highcontrast" width="100%" />
 </p>
