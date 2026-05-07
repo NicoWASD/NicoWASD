@@ -14,7 +14,7 @@ I'm an 18-year-old student currently pursuing a technical degree in Computing. M
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <table>
   <tr>
