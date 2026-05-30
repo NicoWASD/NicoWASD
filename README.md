@@ -32,17 +32,17 @@ I'm an 18-year-old student currently pursuing a technical degree in Computing. M
 
 ## 🛠️ Featured Projects
 
-### ☕ Personal Website
-*Planned release: June 5th, 2026*
-- A comprehensive hub featuring my full professional journey and detailed project case studies.
-- Developed as my first major **React** integration, focusing on high-performance UI/UX.
-- Features a clean, professional interface designed for a seamless user experience.
+### Bob Do Something (B.O.B.D.S.)
+*An advanced autonomous robotics management platform*
+- **Command Center:** Centralizes interaction, real-time telemetry, and task auditing for domestic robotic units.
+- **Tech Stack:** Developed as a modular **React** application, integrating the **UDP protocol** for ultra-low latency communication and **GSAP** for fluid animations.
+- **Premium UI/UX:** Minimalist, high-tech dark "control panel" interface utilizing *Glassmorphism* for an elegant, distraction-free experience.
 
-### 💡 InnovaLink
-A website planned for *Academic Software Project*
-- A digital ecosystem designed to bridge the gap between entrepreneurs and smart capital through dynamic project Showcasing and integrated messaging.
-- **Architected from scratch**: Includes full **UML documentation** (Class, Use Case, and Sequence diagrams) before implementation.
-- **Backend & Data**: Built with Java (Javalin) and MariaDB, utilizing Stored Procedures to handle critical backend logic, security, and data integrity.
+### PokeFav
+*A website for Pokemon Geeks!*
+- A secure, minimalist web platform tailored for Pokémon fans to explore, filter, and manage their favorite Pokémon using real-time PokeAPI data and animated pixel-art sprites.
+- **Frontend & UI**: Developed with React, styled via Stitch (MCP), and enhanced with GSAP animations for a fluid, monochromatic visual experience.
+- **Backend & Security**: Powered by a Node.js/Express REST API with a strict "Secure by Design" approach, featuring OTP email verification and robust protections against XSS, CSRF, and DDoS.
 
 ### 📂 More Projects
 Looking for my academic work? Check out my [**GitHub Organization**](https://github.com/Ixion-Systems) where I host my technical degree repositories.
