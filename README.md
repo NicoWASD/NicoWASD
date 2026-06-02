@@ -40,7 +40,7 @@ I'm an 18-year-old student currently pursuing a technical degree in Computing. M
 
 ### U-Notes
 *A collaborative platform for academic knowledge exchange!*
-- [cite_start]A high-impact, minimalist web platform designed for students to search, upload, and download academic notes and PDF resources in real-time within an internal local network[cite: 11].
+- A high-impact, minimalist web platform designed for students to search, upload, and download academic notes and PDF resources in real-time within an internal local network.
 - **Frontend & UI**: Developed with React, structured with a 3-layer tridimensional architecture, and styled via Stitch using a bold, high-contrast Brutalist/Typographic system powered by *Bebas Neue* and *Neue Haas Grotesk* fonts.
 - **Backend & Local Architecture**: Powered by a Node.js/Express REST API utilizing Multer middleware for efficient local PDF file streaming, structured under an MVC pattern with a decoupled local storage strategy for rapid search indexation.
 
