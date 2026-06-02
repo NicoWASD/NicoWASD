@@ -38,11 +38,11 @@ I'm an 18-year-old student currently pursuing a technical degree in Computing. M
 - **Tech Stack:** Developed as a modular **React** application, integrating the **UDP protocol** for ultra-low latency communication and **GSAP** for fluid animations.
 - **Premium UI/UX:** Minimalist, high-tech dark "control panel" interface utilizing *Glassmorphism* for an elegant, distraction-free experience.
 
-### PokeFav
-*A website for Pokemon Geeks!*
-- A secure, minimalist web platform tailored for Pokémon fans to explore, filter, and manage their favorite Pokémon using real-time PokeAPI data and animated pixel-art sprites.
-- **Frontend & UI**: Developed with React, styled via Stitch (MCP), and enhanced with GSAP animations for a fluid, monochromatic visual experience.
-- **Backend & Security**: Powered by a Node.js/Express REST API with a strict "Secure by Design" approach, featuring OTP email verification and robust protections against XSS, CSRF, and DDoS.
+### U-Notes
+*A collaborative platform for academic knowledge exchange!*
+- [cite_start]A high-impact, minimalist web platform designed for students to search, upload, and download academic notes and PDF resources in real-time within an internal local network[cite: 11].
+- **Frontend & UI**: Developed with React, structured with a 3-layer tridimensional architecture, and styled via Stitch using a bold, high-contrast Brutalist/Typographic system powered by *Bebas Neue* and *Neue Haas Grotesk* fonts.
+- **Backend & Local Architecture**: Powered by a Node.js/Express REST API utilizing Multer middleware for efficient local PDF file streaming, structured under an MVC pattern with a decoupled local storage strategy for rapid search indexation.
 
 ### 📂 More Projects
 Looking for my academic work? Check out my [**GitHub Organization**](https://github.com/Ixion-Systems) where I host my technical degree repositories.
